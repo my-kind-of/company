@@ -18,4 +18,5 @@ Here's how to contribute:
 Have any questions:
 
 You can email admin\[at\]mykindof.tech
+or
 Ask them in our slack channel :mega:
