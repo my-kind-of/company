@@ -2,7 +2,7 @@
 
 The Inner Sanctum for MyKindOf.tech - all of our administration tasks live in this repo :+1:
 
-This is a community project, we all work remotely and soon will be spread across different continents, lets do everything we can to be as transparent and keep each other in the loop :purple_heart::earth:. 
+This is a community project, we all work remotely and soon will be spread across different continents, lets do everything we can to be as transparent and keep each other in the loop :purple_heart::earth_africa:. 
 
 Issues are how we manage our workflow, so check here first for any tasks you are assigned to and any deadlines etc.:sparkles:
 
